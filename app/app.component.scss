@@ -1,0 +1,16 @@
+
+$primary-color-dark: #455A64;
+$primary-color: #607D8B;
+$primary-color-light: #CFD8DC;
+$text-color:#FFFFFF;
+
+$accent-color: #009688;
+$primary-text-color: #212121;
+$secondary-text-color: #757575;
+$divider-color: #BDBDBD;
+
+body {
+    font-family: Arial;
+    background-color: $primary-color;
+    color: $text-color;
+}
